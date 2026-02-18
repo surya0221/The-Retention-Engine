@@ -1,0 +1,1 @@
+The Customer Retention Engine is an ML project built with Python that predicts customer rush before it happens. It processes approximately 1500 customer profiles, creates a Model using Random Forest training and assigns each profile a score based on levels of risk.
